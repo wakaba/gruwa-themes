@@ -1,0 +1,23 @@
+gruwa-themes
+~~~~~~~~~~~~
+
+Design theme definitions for Gruwa <https://github.com/wakaba/gruwa>.
+
+* License
+
+Many theme data are imported from external sources.  See "license"
+fields of theme definitions, whose values are one of followings:
+
+  |GPL|         GPL.
+  |GFDL 1.1+|   GFDL 1.1 or later.
+
+See "copyright" fields of theme definitions, which contain any
+copyright statements.
+
+Some theme data are derived from GPL- or GFDL-licensed themes of
+Hatena Diary <http://d.hatena.ne.jp>.  Some of them are derived from
+GPL- or GFDL-licensed theme data of tDiary <http://www.tdiary.org/>.
+See
+<http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%C0%A5%A4%A5%A2%A5%EA%A1%BC%A5%C6%A1%BC%A5%DE%BA%EE%C0%AE%BB%FE%A4%CE%C3%ED%B0%D5?kid=1342#fn3>,
+<http://www.tdiary.org/archive/theme/msg00352.html>, and
+<http://www.opensource.jp/gpl/gpl.ja.html>.
