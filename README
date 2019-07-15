@@ -8,6 +8,7 @@ Design theme definitions for Gruwa <https://github.com/wakaba/gruwa>.
 Many theme data are imported from external sources.  See "license"
 fields of theme definitions, whose values are one of followings:
 
+  |AGPL3+|      AGPL 3 or later.
   |GPL|         GPL.
   |GFDL 1.1+|   GFDL 1.1 or later.
 

@@ -1,0 +1,40 @@
+{
+  "themes": {
+    "green": {
+      "info": {
+        "label": "Gruwa Classic (緑)",
+        "author": "Wakaba",
+        "license": "AGPL3+",
+        "url": "https://github.com/wakaba/gruwa"
+      },
+      "score": 100009
+    },
+    "blue": {
+      "info": {
+        "label": "Gruwa Classic (青)",
+        "author": "Wakaba",
+        "license": "AGPL3+",
+        "url": "https://github.com/wakaba/gruwa"
+      },
+      "score": 100008
+    },
+    "red": {
+      "info": {
+        "label": "Gruwa Classic (赤)",
+        "author": "Wakaba",
+        "license": "AGPL3+",
+        "url": "https://github.com/wakaba/gruwa"
+      },
+      "score": 100007
+    },
+    "black": {
+      "info": {
+        "label": "Gruwa Classic (黒)",
+        "author": "Wakaba",
+        "license": "AGPL3+",
+        "url": "https://github.com/wakaba/gruwa"
+      },
+      "score": 100006
+    }
+  }
+}
