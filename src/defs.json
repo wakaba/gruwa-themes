@@ -5,7 +5,8 @@
         "label": "Gruwa Classic (緑)",
         "author": "Wakaba",
         "license": "AGPL3+",
-        "url": "https://github.com/wakaba/gruwa"
+        "url": "https://github.com/wakaba/gruwa",
+        "default_ok": true
       },
       "score": 100009
     },
@@ -14,7 +15,8 @@
         "label": "Gruwa Classic (青)",
         "author": "Wakaba",
         "license": "AGPL3+",
-        "url": "https://github.com/wakaba/gruwa"
+        "url": "https://github.com/wakaba/gruwa",
+        "default_ok": true
       },
       "score": 100008
     },
@@ -23,7 +25,8 @@
         "label": "Gruwa Classic (赤)",
         "author": "Wakaba",
         "license": "AGPL3+",
-        "url": "https://github.com/wakaba/gruwa"
+        "url": "https://github.com/wakaba/gruwa",
+        "default_ok": true
       },
       "score": 100007
     },
